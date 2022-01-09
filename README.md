@@ -1,4 +1,4 @@
-### Hi there, I'm Emmanuel - aka Emmanuel Tolani [website] 👋 
+### Hi there, I'm Emmanuel - aka [EmmanuelTolani] 👋 
 
 [![Website](https://img.shields.io/website?label=emmanueltolani.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://emmanueltolani.com/)
 
@@ -46,6 +46,6 @@
 ---
 
 
-[website]: https://emmanueltolani.com/
+[EmmanuelTolani]: https://emmanueltolani.com/
 [twitter]: https://emmanueltolani.com/
 [linkedin]: https://www.linkedin.com/in/emmanuel-tolani-0b5a9b188/
