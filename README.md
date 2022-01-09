@@ -1,6 +1,6 @@
 ### Hi there, I'm Emmanuel - here's my personal [website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://emmanueltolani.com/)
+[![Website](https://img.shields.io/website?label=emmanueltolani.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://emmanueltolani.com/)
 
 ## I'm a Developer with a passion for fitness !
 
