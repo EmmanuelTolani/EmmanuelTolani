@@ -4,7 +4,7 @@
 
 ## I'm a Developer with a passion for fitness !
 
-- 🌱 I’m currently learning shopify developent
+- 🌱 I’m currently learning shopify development
 - 👯 I’m looking to collaborate with other react or shopify developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to workout, read, and play the piano.
