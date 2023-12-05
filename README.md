@@ -21,6 +21,11 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+ <h2> Certifications</h2>
+ 
+  - [Professional Scrum Master PSM1](https://www.credly.com/badges/c090d30e-066b-4e3a-bb6f-7bb32dff9b04/linked_in?t=rq6xtg)
+  - [Google Cyber Security Certificate](https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS)
  
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -46,7 +51,6 @@
 ➡️ [more blog posts...](https://medium.com/@emmanueltolani)
 
 ---
-
 
 [EmmanuelTolani]: https://emmanueltolani.com/
 [website]: https://emmanueltolani.com/
